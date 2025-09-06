@@ -1,0 +1,15 @@
+C:\Users\Даня Майоров\pcs_major\bin\Debug\net9.0\pcs_major.exe
+C:\Users\Даня Майоров\pcs_major\bin\Debug\net9.0\pcs_major.deps.json
+C:\Users\Даня Майоров\pcs_major\bin\Debug\net9.0\pcs_major.runtimeconfig.json
+C:\Users\Даня Майоров\pcs_major\bin\Debug\net9.0\pcs_major.dll
+C:\Users\Даня Майоров\pcs_major\bin\Debug\net9.0\pcs_major.pdb
+C:\Users\Даня Майоров\pcs_major\obj\Debug\net9.0\pcs_major.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даня Майоров\pcs_major\obj\Debug\net9.0\pcs_major.AssemblyInfoInputs.cache
+C:\Users\Даня Майоров\pcs_major\obj\Debug\net9.0\pcs_major.AssemblyInfo.cs
+C:\Users\Даня Майоров\pcs_major\obj\Debug\net9.0\pcs_major.csproj.CoreCompileInputs.cache
+C:\Users\Даня Майоров\pcs_major\obj\Debug\net9.0\pcs_major.sourcelink.json
+C:\Users\Даня Майоров\pcs_major\obj\Debug\net9.0\pcs_major.dll
+C:\Users\Даня Майоров\pcs_major\obj\Debug\net9.0\refint\pcs_major.dll
+C:\Users\Даня Майоров\pcs_major\obj\Debug\net9.0\pcs_major.pdb
+C:\Users\Даня Майоров\pcs_major\obj\Debug\net9.0\pcs_major.genruntimeconfig.cache
+C:\Users\Даня Майоров\pcs_major\obj\Debug\net9.0\ref\pcs_major.dll
