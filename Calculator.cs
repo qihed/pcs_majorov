@@ -114,11 +114,3 @@ class Calculator
         }
     }
 }
-
-class Program
-{
-    static void Main()
-    {
-        Calculator.Run();
-    }
-}
