@@ -2,7 +2,7 @@ class Program
 {
     static void Main()
     {
-        //Calculator.Run();
-        Calendar.Run();
+        Calculator.Run();
+        //Calendar.Run();
     }
 }
