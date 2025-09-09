@@ -16,8 +16,7 @@ class Calculator
                 continue;
             }
             if (string.Equals(s, "exit", StringComparison.OrdinalIgnoreCase)) break;
-
-
+            
             int i1 = s.IndexOf(' ');
             int i2 = s.IndexOf(' ', i1 + 1);
             int i3 = s.Length;
